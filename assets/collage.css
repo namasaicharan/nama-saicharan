@@ -205,6 +205,6 @@
   outline: none;
   box-shadow: none;
 }
-.header__heading-link .link .link--text:focus:after {
+.header__heading:focus:after {
   background-color: aqua;
 }
